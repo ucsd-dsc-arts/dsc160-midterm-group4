@@ -6,7 +6,7 @@ Project Team Members:
 - Kaixin Huang, k3huang@ucsd.edu
 - Xingyu Jiang, xij080@ucsd.edu
 - Yicen Ma, yim095@ucsd.edu
-- Firstname Lastname4, name4@ucsd.edu
+- Chang Yuan, chy238@ucsd.edu
 - Firstname Lastname5, name5@ucsd.edu
 
 ## Abstract
