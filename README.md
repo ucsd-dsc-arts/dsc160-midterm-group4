@@ -26,12 +26,6 @@ For the project proposal, please write a short abstact addressing the questions 
 
 Data Source:
 
-Kurt, Sevinc, and Kelechi Kingsley Osueke. “The Effects of Color on the Moods of College Students - Sevinc Kurt, Kelechi Kingsley Osueke, 2014.” SAGE Journals, journals.sagepub.com/doi/10.1177/2158244014525423.
-
-“Vincent Van Gogh.” Biography.com, A&E Networks Television, 4 Mar. 2020, www.biography.com/artist/vincent-van-gogh.
-
-“Vincent Van Gogh.” Wikipedia, Wikimedia Foundation, 7 May 2020 (accessed) , en.wikipedia.org/wiki/Vincent_van_Gogh.
-
 “Vincent Van Gogh - 1931 Artworks - Painting.” www.wikiart.org, www.wikiart.org/en/vincent-van-gogh/all-works#!#filterName:all-paintings-chronologically,resultType:masonry.
 
   In this project, we are trying to analyze the scan paintings by Vincent van Gogh artworks from (1862 - 1890) throughout his life (1853 - 1890) with respect to its correlation to his experiences. We are using images of all of Vincent van Gogh’s paintings in his lifetime from Wikiart.org. To understand the analysis we are going to do, we need to firstly know Vincent van Gogh’s life and the style and genre of his paintings (both the early ones and later ones). 
@@ -73,18 +67,24 @@ The subsequent paragraphs could address questions including:
 
 ## Team Roles
 
-Provide an account of individual members and their efforts/contributions to the specific tasks you accomplished.
+Yicen Ma: writing code with Xingyu, generating the result, participating in the result part.
+
+Xingyu Jiang: writing code with Yicen, generating the result, participating in the result part.
+
+Chang Yuan: writing the data part and summarizing the background information for the result and discussion part.
+
+Kaixin Huang: writing the result part.
+
+Michael Kusnadi: writing the discussion part.
 
 ## Technical Notes and Dependencies
 
-Any implementation details or notes we need to repeat your work. 
-- Additional libraries you are using for this project
-- Does this code require other pip packages, software, etc?
-- Does this code need to run on some other (non-datahub) platform? (CoLab, etc.)
+Need to import cv2 and imutils as pip packages.
 
 ## Reference
 
-References to any papers, techniques, repositories you used:
-- Papers
-- Repositories
-- Blog posts
+Kurt, Sevinc, and Kelechi Kingsley Osueke. “The Effects of Color on the Moods of College Students - Sevinc Kurt, Kelechi Kingsley Osueke, 2014.” SAGE Journals, journals.sagepub.com/doi/10.1177/2158244014525423.
+
+“Vincent Van Gogh.” Biography.com, A&E Networks Television, 4 Mar. 2020, www.biography.com/artist/vincent-van-gogh.
+
+“Vincent Van Gogh.” Wikipedia, Wikimedia Foundation, 7 May 2020 (accessed) , en.wikipedia.org/wiki/Vincent_van_Gogh.
